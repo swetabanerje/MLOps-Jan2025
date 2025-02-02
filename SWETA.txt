@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This file content has been completely replaced in the G24AIT169 branch.
+=======
+Hi I am SWETA. This file for the MLOps-Jan2025 repository testing.
+This file has been modified in the G24AIT171 branch.
+>>>>>>> G24AIT171
